@@ -1,0 +1,6 @@
+# 2024年全新UI聚合支付系统第三方源码含代付、补单、多商家/单独/轮询/代理佣金/支付
+
+2024年全新UI聚合支付系统第三方源码含代付、补单、多商家/单独/轮询/代理佣金/支付<br>源码内附安装教程，20多项功能及安全方面的更新文档，源码说明等，小白也能轻松搭建。<br>能够轻松应对高并发，等以前版本无法应对的并发问题，也不会被恶意补单漏洞侵扰，全站修复了XSS攻击漏洞。<br>【主要功能说明】<br>1、支付类型可包含H5、当面付、公众号、扫码、银联、快捷;<br>2、结算类型包含普通结算、代付结算、手动结算;<br>3、枫控限制轮询、IP限制、金额限制、当日总金额等;<br>4、完整的账单统计;<br>5、文档分为在线文档和可下载文档压缩包;<br>【应用场景】作为第三方平台。该有的功能都有。<br>作为可以对接微信支付宝官方接口也可以对接第三方支付接口还可以对接免签约接口还可以对接微信公众号支付支付宝当面付、example.com,可对单个帐户设置多种规则。<br>【帐号类型】系统后台多类型管理员、商户代理、普通商户、接口用户；对用的板块后台都不一样相关的数据统计齐全有效。<br>免责申明：<br>源码免费提供，所有功能效果与演示站一致，无法满足所有客户的个性化需求，源码开源，如有个性化需求可自行对源码二次开发，谢谢！<br>该源码仅供交流研究测试使用，不可用于非法用途！否则后果自负。<br>【温馨提示】代码已经几经N多个测试验证，虚拟主机空间不支持平台搭建的。需要使用widows、Linux系统搭建。<br>环境：<br>Nginx example.com.2<br>MySQL example.com.50<br>example.com<br>phpMyAdmin example.com<br>php安装拓展：<br>ZendGuardLoader<br>Fileinfo3<br>支付接口对接文档：http://example.com/Uploads/example.com<br>演示站：http://example.com/<br>商户测试后台：http://example.com/example.com; （测试账号密码：zsmzsm，123456）<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/2XxTT" style="color: red;">https://mega-file.org/2XxTT</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
